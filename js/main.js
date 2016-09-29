@@ -1,1 +1,1 @@
-"use strict";console.log(123123);
+"use strict";$(".call-open").on("click",function(){console.log(23423),$(".windows, .phone-bid-form").show("block")}),$(".close").on("click",function(){$(".window, windows").hide()});
